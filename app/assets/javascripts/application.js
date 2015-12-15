@@ -12,5 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.waypoints.min
+//= require typed.min
+//= require bootbox
 //= require bootstrap
 //= require_tree .
