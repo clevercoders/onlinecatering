@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+# TODO add gems
 gem 'rails', '4.2.5'
 gem 'pg', '~> 0.15'
 gem 'sass-rails', '~> 5.0'
@@ -12,6 +12,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem "autoprefixer-rails"
 gem 'bootbox-rails'
 gem 'bootstrap-sass'
+gem 'devise'
 gem 'figaro'
 gem 'font-awesome-rails'
 gem 'haml-rails'
